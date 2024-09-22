@@ -1,0 +1,60 @@
+{
+  "slots": [
+    {
+      "name": "Pine Of Plinko 2",
+      "image": "https://framerusercontent.com/images/HlSiwZ9aCjFro02BQrs0pAUayU.jpg",
+      "providers": ["Printstudios"],
+      "volatility": "medium",
+      "bonusBuy": true
+    },
+    {
+      "name": "Darkness",
+      "image": "https://framerusercontent.com/images/8Mo5nors4pvB5TvwK0wfLXOjhKw.png",
+      "providers": ["Printstudios"],
+      "volatility": "high",
+      "bonusBuy": true
+    },
+    {
+      "name": "Royal Potato 2",
+      "image": "https://framerusercontent.com/images/lD8u4LvRJDxY1zPzsCIy8BvPo.jpg",
+      "providers": ["Printstudios"],
+      "volatility": "medium",
+      "bonusBuy": true
+    },
+    {
+      "name": "Cash Defense",
+      "image": "https://framerusercontent.com/images/MFPH7zBO25waV4UiMJ8AGfq2bQ.jpg",
+      "providers": ["Printstudios"],
+      "volatility": "high",
+      "bonusBuy": true
+    },
+    {
+      "name": "Octo Attack",
+      "image": "https://www-live.hacksawgaming.com/casino_thumbnails/1584.jpg",
+      "providers": ["Hacksaw Gaming"],
+      "volatility": "high",
+      "bonusBuy": true
+    },
+    {
+      "name": "Donny Dough",
+      "image": "https://www-live.hacksawgaming.com/casino_thumbnails/1530.jpg",
+      "providers": ["Hacksaw Gaming"],
+      "volatility": "medium",
+      "bonusBuy": true
+    },
+    {
+      "name": "Dragon's Domain",
+      "image": "https://www-live.hacksawgaming.com/casino_thumbnails/1360.jpg",
+      "providers": ["Hacksaw Gaming"],
+      "volatility": "high",
+      "bonusBuy": true
+    },
+    {
+      "name": "SixSixSix",
+      "image": "https://www-live.hacksawgaming.com/casino_thumbnails/1534.jpg",
+      "providers": ["Hacksaw Gaming"],
+      "volatility": "high",
+      "bonusBuy": true
+    }
+  ]
+}
