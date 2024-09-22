@@ -2,14 +2,12 @@
     {
 
         "name": "Wild Diamond 7x",
-        "slotimage": "https://images.shuffle.com/37a714b3-94d3-4115-ad36-bfc0d47aeb16?auto=format&width=3840",
-        "providers": [
-            "Booming"
-        ]
+        "image": "https://images.shuffle.com/37a714b3-94d3-4115-ad36-bfc0d47aeb16?auto=format&width=3840",
+        "providers": ["Booming"]
     {,
     {
         "name": "Cube Mania",
-        "slotimage": "https://images.shuffle.com/b2d94f8e-2cca-4571-9b57-c42fb6329e24?auto=format&width=3840",
+        "image": "https://images.shuffle.com/b2d94f8e-2cca-4571-9b57-c42fb6329e24?auto=format&width=3840",
         "providers": [
             "Wazdan"
         ]
@@ -17,16 +15,12 @@
     {
         "name": "Royal High-Road",
         "image": "https://images.shuffle.com/0b5a6d5e-9f21-4ba6-9973-d5bcc710b5a3?auto=format&width=3840",
-        "providers": [
-            "Unknown"
-        ]
+        "providers": ["Unknown"]
     },
     {
         "name": "Western Tales - Bounty Pursuit",
         "image": "https://images.shuffle.com/f0a2c071-13ee-4720-a85f-0dd173a960dd?auto=format&width=3840",
-        "providers": [
-            "Unknown"
-        ]
+        "providers": ["Unknown"]
     },
     {
         "name": "Da Vinci's Treasure",
