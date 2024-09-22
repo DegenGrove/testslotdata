@@ -1,19 +1,21 @@
-{ "name": "Sweet Bonanza 1000", "image": "https://images.shuffle.com/6d470521-efcc-49a7-bf0b-ca0a1f0ddaa8?auto=format&width=3840", "providers": ["pragmatic"] },
-{ "name": "Slayers Inc", "image": "https://images.shuffle.com/c745f267-f19c-4d68-8694-7b5b82779499?auto=format&width=3840", "providers": ["hacksaw"] },
-{ "name": "Gates of Olympus 1000", "image": "https://images.shuffle.com/272940ec-0bcd-4f6b-85e3-9d8fba61386e?auto=format&width=3840", "providers": ["pragmatic"] },
-{ "name": "Ze Zeus", "image": "https://images.shuffle.com/368271ae-9e52-4210-92cc-dfb902f1deac?auto=format&width=3840", "providers": ["hacksaw"] },
-{ "name": "Sugar Rush 1000", "image": "https://images.shuffle.com/51aa5527-df69-4f5a-8ae5-72666d65697e?auto=format&width=3840", "providers": ["pragmatic"] },
-{ "name": "Wanted Dead or a Wild", "image": "https://images.shuffle.com/c7b858ea-a3b8-425e-ad26-f829469cf24f?auto=format&width=3840", "providers": ["hacksaw"] },
-{ "name": "SixSixSix", "image": "https://images.shuffle.com/5203da76-df9b-4b8f-98fa-282b462bbbc3?auto=format&width=3840", "providers": ["hacksaw"] },
-{ "name": "Benny the Beer", "image": "https://images.shuffle.com/a0c42c84-e7c9-4de6-8bc5-b0054707ddea?auto=format&width=3840", "providers": ["hacksaw"] },
-{ "name": "Kenneth Must Die", "image": "https://images.shuffle.com/060007a0-e803-488b-a677-8ca11736dcb1?auto=format&width=3840", "providers": ["nolimit"] },
-{ "name": "Dork Unit", "image": "https://images.shuffle.com/8a24483f-80a9-4eb3-a723-b857749f7817?auto=format&width=3840", "providers": ["hacksaw"] },
-{ "name": "Deadwood R.I.P", "image": "https://images.shuffle.com/1664152b-2b0c-4dba-ba2f-fa01c3ff6298?auto=format&width=3840", "providers": ["nolimit"] },
-{ "name": "Donny Dough", "image": "https://images.shuffle.com/85dd750b-c54d-4d8a-b29c-9fa4312b822b?auto=format&width=3840", "providers": ["hacksaw"] },
-{ "name": "Sugar Rush", "image": "https://images.shuffle.com/00efbf60-5350-43ff-9fa3-0a2027ee1135?auto=format&width=3840", "providers": ["pragmatic"] },
-{ "name": "Le Bandit", "image": "https://images.shuffle.com/2f2d8959-5325-4f39-8056-c175f0882146?auto=format&width=3840", "providers": ["hacksaw"] },
-{ "name": "Big Bass Bonanza", "image": "https://images.shuffle.com/511613eb-5a27-4345-bb53-bb8fa9969a6d?auto=format&width=3840", "providers": ["pragmatic"] },
-{ "name": "Book of Dead", "image": "https://images.shuffle.com/f8445e20-ee90-425d-85de-45004040d2de?auto=format&width=3840", "providers": ["playngo"] },
+[
+    {
+        "id": "1",
+        "name": "Pine Of Plinko 2",
+        "image": "https://images.shuffle.com/3ed1e41b-131f-4f42-85d0-2e30f245460f?auto=format&width=3840",
+        "providers": ["Printstudios"],
+        "volatility": "medium",
+        "bonusBuy": true
+    },
+    {
+        "id": "2",
+        "name": "Octo Attack",
+        "image": "https://images.shuffle.com/5a7f1482-de35-4f60-ae4d-5a053e6f7649?auto=format&width=3840",
+        "providers": ["Hacksaw Gaming"],
+        "volatility": "high",
+        "bonusBuy": true
+    }
+]
 { "name": "Twisted Lab", "image": "https://images.shuffle.com/3ed1e41b-131f-4f42-85d0-2e30f245460f?auto=format&width=3840", "providers": ["hacksaw"] },
 { "name": "Stormforged", "image": "https://images.shuffle.com/9270a187-ea6b-401a-8cef-18c55416896b?auto=format&width=3840", "providers": ["hacksaw"] },
 { "name": "Fist of Destruction", "image": "https://images.shuffle.com/5a7f1482-de35-4f60-ae4d-5a053e6f7649?auto=format&width=3840", "providers": ["hacksaw"] },
